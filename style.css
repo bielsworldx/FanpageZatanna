@@ -1,0 +1,139 @@
+#gradient-text{
+    background:linear-gradient(to right, #b1d6ff,#54a1f7);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 40px;
+    font-weight: bold;
+    font-family: "Cinzel Decorative", serif;
+    text-shadow: 2px 2px 2px rgba(4, 57, 192, 0.5)
+}
+body{
+    background-image: url('sitebg(1).jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    color: rgb(80, 58, 250);
+}
+.menu{
+    background:linear-gradient(to right, #b1b9ff,#5f54f7);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 16px;
+    font-weight: bold;
+    font-family: "Cinzel Decorative", serif;
+    padding: 3px;
+}
+.menuselect{
+    background:linear-gradient(to right, #0051d4,#0300a5);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 16px;
+    font-weight: bold;
+    font-family: "Cinzel Decorative", serif;
+    padding: 3px;
+}
+.menuspan{
+    background:linear-gradient(to right, #6ba2f0,#2c98f0);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 24px;
+    font-weight: bold;
+    font-family: "Cinzel Decorative", serif;
+}
+#subtitle{
+    background:linear-gradient(to right, #6ba2f0,#2c98f0);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 24px;
+    font-weight: bold;
+    font-family: "Cinzel Decorative", serif;
+}
+hr{
+    border-color: #54a1f7;
+    width: 75%;
+    height: 2px;
+    background-color: #54a1f7;
+    border-radius: 8px;
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 5px;
+    margin-left: 150px;
+}
+.container-text{
+    width: 55%;
+    padding-left: 20px;
+    text-align: left;
+}
+.container-img{
+    width: 45%;
+    padding-right: 20px;
+}
+.page-text{
+    background:linear-gradient(to right, #b1b9ff,#5f54f7);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 16px;
+    font-weight: bold;
+    font-family: "Cinzel Decorative", serif;
+    padding: 3px;
+}
+.container-inv{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 5px;
+    margin-right: 150px;
+}
+.container-text-inv{
+    width: 55%;
+    padding-right: 20px;
+    text-align: right;
+}
+.container-img-inv{
+    width: 45%;
+    padding-left: 20px;
+}
+.externa {
+    display: flex;
+    justify-content: center;
+}
+.interna {
+    margin-right: 25px;
+    margin-left: 25px;
+    background-color: rgb(131, 147, 230);
+    border-radius: 12px;
+}
+.interna2 {
+    margin-right: 25px;
+    margin-left: 25px;
+    border-radius: 12px;
+    text-shadow: 2px 2px 2px rgba(1, 5, 17, 0.632)
+}
+#blocktxt{
+    background:linear-gradient(to right, #545be2,#010def);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 12px;
+    font-weight: bold;
+    font-family: "Cinzel Decorative", serif;
+}
+#blocktext{
+    background:linear-gradient(to right, #6ba2f0,#2c98f0);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 12px;
+    font-weight: bold;
+    font-family: "Cinzel Decorative", serif;
+}
+#subtitle2{
+    background:linear-gradient(to right, #8a6bf0,#602cf0);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 24px;
+    font-weight: bold;
+    font-family: "Cinzel Decorative", serif;
+}
